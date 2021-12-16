@@ -9,8 +9,8 @@ class script(object):
 
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href=https://t.me/the_hellcat_10>_adx_blackhat_</a>
 
-**For More Details
-Join @SS07MOVIEHUT** """
+<b> For More Details </b>
+Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
 
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
