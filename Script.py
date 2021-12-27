@@ -7,7 +7,7 @@ class script(object):
 𝙰𝙳𝚅𝙰𝙽𝚃𝙰𝙶𝙴𝚂 𝙾𝙵 𝙰𝙳𝙳𝙸𝙽𝙶 𝙼𝙴 
 *𝙽𝙾 𝙵𝙾𝚁𝙲𝙴 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 😍
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href=https://t.me/the_hellcat_10>_adx_blackhat_</a>
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href=https://t.me/the_hellcat_10>_adx_hellcat_</a>
 
 <b> For More Details </b>
 Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
@@ -15,7 +15,7 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/the_hellcat_10>_adx_blackhat_</a>
+✯ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/the_hellcat_10>_adx_hellcat_</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -25,13 +25,13 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
 - A open source bot. 
 
 <b>ADMIN:</b>
-- <a href=https://t.me/the_hellcat_10>_adx_blackhat_</a>"""
+- <a href=https://t.me/the_hellcat_10>_adx_hellcat_</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and Night King will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and ᴅᴏᴅɢᴇ sʀᴛ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Night King should have admin privillage.
+1. ᴅᴏᴅɢᴇ sʀᴛshould have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -42,11 +42,11 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Night King Supports both url and alert inline buttons.
+- ᴅᴏᴅɢᴇ sʀʏ Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Night King supports buttons with any telegram media type.
+2. ᴅᴏᴅɢᴇ sʀᴛ supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
