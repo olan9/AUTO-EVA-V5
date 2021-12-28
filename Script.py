@@ -31,7 +31,7 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
 - Filter is the feature were users can set automated replies for a particular keyword and ᴅᴏᴅɢᴇ sʀᴛ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᴅᴏᴅɢᴇ sʀᴛshould have admin privillage.
+1. ᴅᴏᴅɢᴇ sʀᴛ should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -77,7 +77,7 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of 𝙽𝚒𝚐𝚑𝚝 𝙺𝚒𝚗𝚐
+these are the extra features of ᴅᴏᴅɢᴇ sʀʏ
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
