@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/a770ac5212180170f640d.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>ᴅᴏᴅɢᴇ sʀᴛ</b>
 </h1>
 
 
