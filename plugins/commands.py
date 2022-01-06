@@ -15,6 +15,8 @@ import json
 import base64
 logger = logging.getLogger(__name__)
 
+BATCH_FILES = {}
+
 @Client.on_message(filters.command("start"))
 async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
