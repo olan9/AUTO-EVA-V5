@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/a770ac5212180170f640d.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/e6758441d962aed06f4bd.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
   <b>ᴅᴏᴅɢᴇ sʀᴛ</b>
