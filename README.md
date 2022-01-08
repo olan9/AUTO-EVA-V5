@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/e6758441d962aed06f4bd.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>ᴅᴏᴅɢᴇ sʀᴛ</b>
+  <b>𝙹𝙴𝙽𝙽𝙸𝙴 𝙻𝙸𝚂𝙰</b>
 </h1>
 
 
