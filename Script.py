@@ -33,7 +33,7 @@ Join <a href=https://t.me/MOVIESTALKIES23>🛡🎬𝙈𝙊𝙑𝙄𝙀𝙎 𝙏�
 - <a href=https://t.me/MALAYALI_DUDE>𝕊𝕞𝕡 🇮🇳【𝙾𝙵𝙵𝙻𝙸𝙽𝙴】</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᴅᴏᴅɢᴇ sʀᴛ will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝑺𝒂𝒎𝒂𝒏𝒕𝒉𝒂 𝑨𝒌𝒌𝒊𝒏𝒆𝒏𝒊 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. 𝑺𝒂𝒎𝒂𝒏𝒕𝒉𝒂 𝑨𝒌𝒌𝒊𝒏𝒆𝒏𝒊 should have admin privillage.
@@ -51,15 +51,15 @@ Join <a href=https://t.me/MOVIESTALKIES23>🛡🎬𝙈𝙊𝙑𝙄𝙀𝙎 𝙏�
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᴅᴏᴅɢᴇ sʀᴛ supports buttons with any telegram media type.
+2. 𝑺𝒂𝒎𝒂𝒏𝒕𝒉𝒂 𝑨𝒌𝒌𝒊𝒏𝒆𝒏𝒊 Supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/adx_army1_bot)</code>
+<code>[Button Text](buttonurl:https://t.me/mnoweva_jennie_bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
+    AUTOFILTER_TXT = """Help: <b> 𝑺𝒂𝒎𝒂𝒏𝒕𝒉𝒂 𝑨𝒌𝒌𝒊𝒏𝒆𝒏𝒊 </b>
 
 <b>NOTE:</b>
 1. Make me the admin of your channel if it's private.
