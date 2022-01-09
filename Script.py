@@ -36,7 +36,7 @@ Join <a href=https://t.me/MOVIESTALKIES23>🛡🎬𝙈𝙊𝙑𝙄𝙀𝙎 𝙏�
 - Filter is the feature were users can set automated replies for a particular keyword and ᴅᴏᴅɢᴇ sʀᴛ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᴅᴏᴅɢᴇ sʀᴛ should have admin privillage.
+1. 𝑺𝒂𝒎𝒂𝒏𝒕𝒉𝒂 𝑨𝒌𝒌𝒊𝒏𝒆𝒏𝒊 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -47,7 +47,7 @@ Join <a href=https://t.me/MOVIESTALKIES23>🛡🎬𝙈𝙊𝙑𝙄𝙀𝙎 𝙏�
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ᴅᴏᴅɢᴇ sʀʏ Supports both url and alert inline buttons.
+- 𝑺𝒂𝒎𝒂𝒏𝒕𝒉𝒂 𝑨𝒌𝒌𝒊𝒏𝒆𝒏𝒊 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
