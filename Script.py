@@ -5,17 +5,21 @@ class script(object):
 𝙸𝚃'𝚂 𝚅𝙴𝚁𝚈 𝙴𝙰𝚂𝚈. 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽, 𝚃𝙷𝙰𝚃𝚂 𝙰𝙻𝙻, 𝙸'𝙻𝙻 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝚃𝙷𝙴𝚁𝙴 
 
 𝙰𝙳𝚅𝙰𝙽𝚃𝙰𝙶𝙴𝚂 𝙾𝙵 𝙰𝙳𝙳𝙸𝙽𝙶 𝙼𝙴 
-*𝙽𝙾 𝙵𝙾𝚁𝙲𝙴 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 😍
+*1𝙼+ 𝙼𝙾𝚅𝙸𝙴 𝙵𝙸𝙻𝙴𝚂 𝙰𝙳𝙳𝙴𝙳
+*𝚄𝙽𝙻𝙸𝙼𝙸𝚃𝙴𝙳 𝙵𝙸𝙻𝚃𝙴𝚁𝚂
+*𝙹𝚄𝚂𝚃 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝙾𝚄𝚁 <a href=https://t.me/MNOW_UPDATES>𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 </a> 😍
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href=https://t.me/the_hellcat_10>_adx_hellcat_</a>
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href=https://t.me/MALAYALI_DUDE>𝕊𝕞𝕡 🇮🇳【𝙾𝙵𝙵𝙻𝙸𝙽𝙴】
+</a>
 
 <b> For More Details </b>
-Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
+Join <a href=https://t.me/MOVIESTALKIES23>🛡🎬𝙈𝙊𝙑𝙄𝙀𝙎 𝙏𝘼𝙇𝙆𝙄𝙀𝙎🎥🛡</a> """
 
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/the_hellcat_10>_adx_hellcat_</a>
+✯ 𝙼𝚈 𝙳𝙴𝚅: <a href=https://t.me/MALAYALI_DUDE>𝕊𝕞𝕡 🇮🇳【𝙾𝙵𝙵𝙻𝙸𝙽𝙴】
+</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -25,7 +29,7 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
 - A open source bot. 
 
 <b>ADMIN:</b>
-- <a href=https://t.me/the_hellcat_10>_adx_hellcat_</a>"""
+- <a href=https://t.me/MALAYALI_DUDE>𝕊𝕞𝕡 🇮🇳【𝙾𝙵𝙵𝙻𝙸𝙽𝙴】</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᴅᴏᴅɢᴇ sʀᴛ will respond whenever a keyword is found the message
